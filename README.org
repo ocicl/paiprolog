@@ -1,0 +1,10 @@
+* paiprolog
+
+forked Christophe Rhodes's PAIProlog that an update of Peter Norvig's "Prolog in Common Lisp".
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/quek/paiprolog   |
+| commit  | 012d6bb  |
+| systems | paiprolog |
+|---------+-------------------------------------------|
+
